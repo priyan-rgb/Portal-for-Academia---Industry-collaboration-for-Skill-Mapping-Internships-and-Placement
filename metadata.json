@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI",
+  "description": "Intelligent Academia–Industry Collaboration and Employability Platform featuring AI-powered skill gap analysis, explainable role matching, and digital skill passports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
